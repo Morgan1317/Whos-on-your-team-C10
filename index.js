@@ -1,4 +1,4 @@
 
-const Employee = require('./lib/Employee')
+const Team = require('./lib/Team')
 
-new Employee().getEmployee()
+new Team().getManager();
