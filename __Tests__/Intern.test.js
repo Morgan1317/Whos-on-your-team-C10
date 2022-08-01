@@ -1,6 +1,6 @@
 const Intern = require('../lib/Intern');
 
-
+// tests to make sure intern object is made with correct parameters
 test('Creates an intern object', () => {
     const intern = new Intern ('Moira',1,'Moira@gmail.com','school');
 
