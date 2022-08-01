@@ -1,0 +1,37 @@
+header {
+    margin: 0;
+    text-align: center;
+    font-size: larger;
+    font-weight: bolder;
+    background-image: linear-gradient(to right,#dc1c13,
+    #ea4c46,
+    #f07470,
+    #f1959b,
+    #f6bdc0,
+    #f1959b,
+    #f07470,
+    #ea4c46,
+    #dc1c13);
+    padding: 20px;
+    text-shadow: 1px 1px 5px #dc1c13; 
+}
+
+.card {
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 5px 5px 5px #0011fa2c;
+}
+.card-header{
+    text-align: center;
+    font-weight: bolder;
+}
+.manager{
+    background-color: rgba(127, 255, 212, 0.641);
+}
+
+.intern{
+    background-color: rgba(88, 88, 246, 0.724);
+}
+.engineer{
+    background-color: rgba(111, 110, 110, 0.473);
+}
