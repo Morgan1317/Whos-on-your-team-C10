@@ -42,8 +42,8 @@
 
   If you would like to contribute add an issue, or reach out to me on github
   
-  ** Limitations **
-  
+   **Limitations**   
+   
   Although there is some validation, there is not yet validation in place to verify user input an actual number, or that the id's and other inputs don't over lap, so currently there could be more than one member with the same ID. In the future, I plan to go back and add these validations to make the code a little more solid. 
 
   ## Tests
