@@ -35,7 +35,7 @@
 
   In order to run this repo, both jest, and inquirer are required. 
 
-  Click <a href="https://watch.screencastify.com/v/UOb4ER6vtmysgHAJIQyD" target="_blank">here</a> if you are interested to see a short video demonstrating how team member generator works.
+  Click <a href="https://watch.screencastify.com/v/UOb4ER6vtmysgHAJIQyD" target="_blank" rel="noreferrer noopener">here</a> if you are interested to see a short video demonstrating how team member generator works.
 
 
   ## Contributing
@@ -56,4 +56,4 @@
 
   ## Questions
 
-  Find me on <a href="https://github.com/Morgan1317" target="_blank">github</a> to learn more about my work  😁.
+  Find me on <a href="https://github.com/Morgan1317" target="_blank" rel="noreferrer noopener">github</a> to learn more about my work  😁.
