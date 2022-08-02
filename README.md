@@ -35,7 +35,7 @@
 
   In order to run this repo, both jest, and inquirer are required. 
 
-  Click <a href="https://drive.google.com/file/d/1-GGcuML05i-Z4ELxQPUSSg6e9BJ15vh4/view" target="_blank">here</a> if you are interested to see a short video demonstrating how readme generator works.
+  Click <a href="https://watch.screencastify.com/v/UOb4ER6vtmysgHAJIQyD" target="_blank">here</a> if you are interested to see a short video demonstrating how team member generator works.
 
 
   ## Contributing
