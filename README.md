@@ -36,6 +36,8 @@
   In order to run this repo, both jest, and inquirer are required. 
 
   Click <a href="https://watch.screencastify.com/v/UOb4ER6vtmysgHAJIQyD" target="_blank" rel="noreferrer noopener">here</a> if you are interested to see a short video demonstrating how team member generator works.
+  
+  Click <a href="https://morgan1317.github.io/Whos-on-your-team-C10/" target="_blank" rel="noreferrer noopener">here</a> if you are interested to see an example of the html page that is created. 
 
 
   ## Contributing
